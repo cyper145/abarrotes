@@ -1,2 +1,1 @@
-# Sistema de abarrotes
-desarrollado por el estudiante Gabriela
+# Sistema de abarrote
